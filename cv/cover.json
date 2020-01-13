@@ -1,22 +1,50 @@
 [
     {
     "name": "Cover1",
+    "cover": "",
+    "description":"",
+    "rating":"",
+    "category":"category",
     "imageurl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/christmas-day-movies-charlies-angels-1567050231.jpg",
-    "link": "your_drive_link"
+    "link": "your_drive_link",
+    "link2": "link2",
+    "download":"download1",
+    "download2":"download2"
   },
   {
     "name": "Cover2",
+    "cover": "",
+    "description":"",
+    "rating":"",
+    "category":"category",
     "imageurl": "https://lumiere-a.akamaihd.net/v1/images/au_moviesshowcase_mulan_poster_r_2_54011055.jpeg",
-    "link": "your_drive_link"
+    "link": "your_drive_link",
+    "link2": "link2",
+    "download":"download1",
+    "download2":"download2"
   },
   {
     "name": "Cover3",
+    "cover": "",
+    "description":"",
+    "rating":"",
+    "category":"category",
     "imageurl": "https://m.media-amazon.com/images/M/MV5BOTVhMzYxNjgtYzYwOC00MGIwLWJmZGEtMjgwMzgxMWUwNmRhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
-    "link": "your_drive_link"
+    "link": "your_drive_link",
+    "link2": "link2",
+    "download":"download1",
+    "download2":"download2"
   },
   {
     "name": "Cover3",
+    "cover": "",
+    "description":"",
+    "rating":"",
+    "category":"category",
     "imageurl": "https://upload.wikimedia.org/wikipedia/en/0/0b/Ejen_Ali_The_Movie_Official_Theatrical_Poster.jpg",
-    "link": "your_drive_link"
+    "link": "your_drive_link",
+    "link2": "link2",
+    "download":"download1",
+    "download2":"download2"
   }
 ]
