@@ -1,74 +1,75 @@
 [
-    {
-    "name": "Cover1",
-    "cover": "coverphoto",
-    "description":"description",
-    "rating":"0",
-    "category":"category",
-    "imageurl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/christmas-day-movies-charlies-angels-1567050231.jpg",
-    "link": "your_drive_link",
-    "link2": "link2",
-    "download":"download1",
-    "download2":"download2"
-  },
   {
-    "name": "Cover2",
-    "cover": "coverphoto",
-    "description":"description",
-    "rating":"0",
-    "category":"category",
-    "imageurl": "https://lumiere-a.akamaihd.net/v1/images/au_moviesshowcase_mulan_poster_r_2_54011055.jpeg",
-    "link": "your_drive_link",
-    "link2": "link2",
-    "download":"download1",
-    "download2":"download2"
-  },
-  {
-    "name": "Cover3",
-    "cover": "coverphoto",
-    "description":"description",
-    "rating":"0",
-    "category":"category",
-    "imageurl": "https://m.media-amazon.com/images/M/MV5BOTVhMzYxNjgtYzYwOC00MGIwLWJmZGEtMjgwMzgxMWUwNmRhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
-    "link": "your_drive_link",
-    "link2": "link2",
-    "download":"download1",
-    "download2":"download2"
-  },
-  {
-    "name": "Cover3",
-    "cover": "coverphoto",
-    "description":"description",
-    "rating":"0",
-    "category":"category",
-    "imageurl": "https://apiprod.muvicinemas.com/incharge-assets/images/films/f9d085f0-c5bc-4bb8-a563-8bac872c14a7.png",
-    "link": "your_drive_link",
-    "link2": "link2",
-    "download":"download1",
-    "download2":"download2"
-  },
-  {
-    "name": "Cover3",
-    "cover": "coverphoto",
-    "description":"description",
-    "rating":"0",
-    "category":"category",
-    "imageurl": "https://static.metacritic.com/images/products/movies/8/8415b93ec3ac35dce576778abfb09e0f.jpg",
-    "link": "your_drive_link",
-    "link2": "link2",
-    "download":"download1",
-    "download2":"download2"
-  },
-  {
-    "name": "Cover3",
-    "cover": "coverphoto",
-    "description":"description",
-    "rating":"0",
-    "category":"category",
-    "imageurl": "https://upload.wikimedia.org/wikipedia/en/0/0b/Ejen_Ali_The_Movie_Official_Theatrical_Poster.jpg",
-    "link": "your_drive_link",
-    "link2": "link2",
-    "download":"download1",
-    "download2":"download2"
-  }
+  "name": "Rambo: Last Blood (2019)",
+  "cover": "coverphoto",
+  "description":"ဒီကားကတော့ တိုက်ခိုက်ခန်းတွေနဲ့သတ်ဖြတ်ခန်းတွေ ရက်စက်တာမို့ R rated သတ်မှတ်ထားပါတယ်။ဇာတ်လမ်းအကျဉ်းကတော့ ရမ်ဘိုကြီးဟာဗီယက်နမ်စစ်ပွဲ၊ မြန်မာစစ်ပွဲတွေ နွှဲခဲ့အပြီးမှာအိမ်ကိုပြန်လာပြီး မိတ်ဆွေဟောင်း အမျိုးသမီးနဲ့သူ့ရဲ့မြေးလေး ဂေဘရီရယ်တို့ရဲ့ အိမ်မှာ အတူနေနေပါတယ်။တစ်ရက်မှာ ဆယ်ကျော်သက်လေး ဂေဘရီရယ်ဟာမက္ကဆီကို ကိုခိုးထွက်ပြီး
+  သူ့ကိုစွန့်ပစ်သွားတဲ့ဖခင်ဖြစ်သူကို လိုက်ရှာပါတော့တယ်။အဲဒီအချိန်မှာ သူပြန်မလာနိုင်ဘဲလူမှောင်ခို ပြည့်တန်ဆာဂိုဏ်းလက်ထဲပါသွားတဲ့အခါမှာအဘိုးကြီး ရမ်ဘိုတစ်ယောက်စွန့်စားခန်းတွေ ထပ်ဖွင့်ရပါတော့တယ်။",
+  "rating":"6.6",
+  "category":"Action, Adventure, Thriller",
+  "imageurl": "https://image.tmdb.org/t/p/w185/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg",
+  "link": "your_drive_link",
+  "link2": "link2",
+  "download":"download1",
+  "download2":"download2"
+},
+{
+  "name": "Cover2",
+  "cover": "coverphoto",
+  "description":"description",
+  "rating":"0",
+  "category":"category",
+  "imageurl": "https://lumiere-a.akamaihd.net/v1/images/au_moviesshowcase_mulan_poster_r_2_54011055.jpeg",
+  "link": "your_drive_link",
+  "link2": "link2",
+  "download":"download1",
+  "download2":"download2"
+},
+{
+  "name": "Cover3",
+  "cover": "coverphoto",
+  "description":"description",
+  "rating":"0",
+  "category":"category",
+  "imageurl": "https://m.media-amazon.com/images/M/MV5BOTVhMzYxNjgtYzYwOC00MGIwLWJmZGEtMjgwMzgxMWUwNmRhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+  "link": "your_drive_link",
+  "link2": "link2",
+  "download":"download1",
+  "download2":"download2"
+},
+{
+  "name": "Cover3",
+  "cover": "coverphoto",
+  "description":"description",
+  "rating":"0",
+  "category":"category",
+  "imageurl": "https://apiprod.muvicinemas.com/incharge-assets/images/films/f9d085f0-c5bc-4bb8-a563-8bac872c14a7.png",
+  "link": "your_drive_link",
+  "link2": "link2",
+  "download":"download1",
+  "download2":"download2"
+},
+{
+  "name": "Cover3",
+  "cover": "coverphoto",
+  "description":"description",
+  "rating":"0",
+  "category":"category",
+  "imageurl": "https://static.metacritic.com/images/products/movies/8/8415b93ec3ac35dce576778abfb09e0f.jpg",
+  "link": "your_drive_link",
+  "link2": "link2",
+  "download":"download1",
+  "download2":"download2"
+},
+{
+  "name": "Cover3",
+  "cover": "coverphoto",
+  "description":"description",
+  "rating":"0",
+  "category":"category",
+  "imageurl": "https://upload.wikimedia.org/wikipedia/en/0/0b/Ejen_Ali_The_Movie_Official_Theatrical_Poster.jpg",
+  "link": "your_drive_link",
+  "link2": "link2",
+  "download":"download1",
+  "download2":"download2"
+}
 ]
