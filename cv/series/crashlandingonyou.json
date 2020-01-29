@@ -1,14 +1,20 @@
 [
     {
         "epname": "Episode 1",
-        "playurl": "https://image.tmdb.org/t/p/w300/o3Htmlg6BfNs8Ew7yjsRzVnYSEs.jpg",
-        "durl1": "crashlandingonyou",
-        "durl2": "download2"
+        "playurl": "https://fs14156.datbu.com/z6qlcss2i3gu5p7lnmr2avm3v6gqp5ky46go2ifjkpc2fowdcmohb7r6q5ta/v.mp4",
+        "durl1": "https://soliddrive.co/1L1o/Crash.Landing.on.You.2019.E01.720p_%7BCM%7D.mp4",
+        "durl2": "https://datbu.com/90b3ffwdy2cy.html"
     },
     {
         "epname": "Episode 2",
-        "playurl": "https://image.tmdb.org/t/p/w300/o3Htmlg6BfNs8Ew7yjsRzVnYSEs.jpg",
-        "durl1": "crashlandingonyou",
-        "durl2": "download2"
+        "playurl": "https://fs14156.datbu.com/z6qlfr2zi3gu5p7lnmr2avmtuvrmxbjastkj66k3bw4pg57i4vrgbqtnh7xq/v.mp4",
+        "durl1": "https://soliddrive.co/V01/Crash.Landing.on.You.2019.E02.720p_%7BCM%7D.mp4",
+        "durl2": "https://www.datbu.com/98h5zviyz6u7.html"
+    },
+    {
+        "epname": "Episode 3",
+        "playurl": "https://fs14156.datbu.com/z6qlet2zi3gu5p7lnmr2acg27sdbemma3vptdackplsdmcv4bobfcnxuusnq/v.mp4",
+        "durl1": "https://soliddrive.co/V2k/Crash_Landing_on_You_-_Episode_3_%7BCM%7D.mp4",
+        "durl2": "https://www.datbu.com/dq1208be5bsq.html"
     }
 ]
